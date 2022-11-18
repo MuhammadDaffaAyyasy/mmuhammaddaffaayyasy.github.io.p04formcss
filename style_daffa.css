@@ -1,0 +1,47 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+head {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+
+legend {
+  color: rgb(0, 0, 0);
+  font: bold;
+}
+
+select:hover {
+  background-color: rgb(89, 121, 151);
+}
+
+option:hover {
+  background-color: rgb(89, 121, 151);
+}
+
+input:hover {
+  background-color: rgb(89, 121, 151);
+}
+
+textarea:hover {
+  background-color: rgb(89, 121, 151);
+}
+
+.bagan1,
+.bagan2,
+.bagan3 {
+  background-color: #82eaff;
+  border-radius: 10px;
+}
+
+.jawaban {
+  width: 100%;
+  height: 40px;
+  padding: 5px 0;
+  border: none;
+  background-color: rgb(255, 0, 0);
+  font-size: 18px;
+  color: black;
+  border-radius: 20px;
+}
